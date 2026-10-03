@@ -1,4 +1,4 @@
-- 0001 ## EN-WR # File : PCGR-PETAZZONI.F16®-EN-WR-README©.md
+- 0001 ## EN-WR # File : LPOS-PETAZZONI.F3000®-EN-WR-README©.md
 - 0002 ## EN-WR # Applicant Inventor Operating System Software : IT.PTZGPP62P15D548M GIUSEPPE PETAZZONI via Messidoro 6i , via Ruggero Tambroni 38a 44124 Ferrara Italia European Union
 - 0003 ## EN-WR # Applicant Inventor Applications Software: Institute for Cancer Research, Oslo University Hospital Copyright (c) 2024 Sigve Nakken and Copyright (c) 2026 IT.PTZGPP62P15D548M GIUSEPPE PETAZZONI Street Messidoro 6i , Street Ruggero Tambroni 38a 44124 Ferrara Italy European Union
 - 0004 ## EN-WR # Applicant Inventor Records : 1st Record Since 2012 GIUSEPPE PETAZZONI has made more RECORDS, has written Developed 3 000 000 Files to be used in complex applications applied to FOOD BANK BEAUTY CHEMISTRY CONSTRUCTIONS ENERGY INSTITUTIONS MACHINES METALS MEDIA HEALTH SERVICES with variable capacity for each file from 300 000 up to 3 000 000 lines of Programming Language and / or SQL Software Code for each file to be used in SUPERSERVER for small medium large DATACENTER with minimum 3 000 nodes up to 30 000 nodes for single datacenter, the second behind GIUSEPPE PETAZZONI has written a file of 3 000 lines applied to the documentation, The remaining 60 000 programmers located in 250 countries of the world who have collaborated to write software systems have written an average of 30 to 3 000 files for application with capacity from 30 to 3 000 lines of Programming Languages and / or Software Code for single file, a Lawyer a Judge a Notary a Politician in the media write legal and / or notarial acts of 300 lines per single file. 2nd Record In the year 2019-2020 GIUSEPPE PETAZZONI wrote and developed six Applications KING QUEEN ROOK BISHOP HORSE PAWN to Organize Time for People in 24 Hour Paper and / or Digital Format, in 60 Languages   ​​ with 100% Translations for People and / or Multinational Companies and / or National Institutions that have employees in a Nation and / or all over the World to be organized with the unit of measurement of time, with this unit of measurement Time the competition, the benefits, the paychecks, the competing companies in the Media world have the 8/16 hour format 1 Language with 20% Translations.
@@ -74,19 +74,19 @@
 - 0074 ## EN-WR #
 - 0075 ## EN-WR # START FACTORY PAKAGE PETAZZONI LINUX DEBIAN F3000® PLDF3000® ########## 
 - 0076 ## EN-WR # PackageCategory : GRAPHICS
-- 0077 ## EN-WR # PackageName : PCGR-PETAZZONI.F16®-EN-WR
+- 0077 ## EN-WR # PackageName : LPOS-PETAZZONI.F3000®-EN-WR
 - 0078 ## EN-WR # PackageRevDateTime : 20260930-0900
 - 0079 ## EN-WR # PackageArch :  AMD64
 - 0080 ## EN-WR # PackageExt : .deb
-- 0081 ## EN-WR # PackageCodeNew :  PCGR-PETAZZONI.F16®-EN-WR_20260930-0900_AMD64.deb
+- 0081 ## EN-WR # PackageCodeNew :  LPOS-PETAZZONI.F3000®-EN-WR_20260930-0900_AMD64.deb
 - 0082 ## EN-WR # STOP FACTORY PAKAGE PETAZZONI LINUX DEBIAN F3000® PLDF3000® ########## 
 - 0083 ## EN-WR #
 - 0084 ## EN-WR # START FACTORY FILE PETAZZONI LINUX DEBIAN F3000® PLDF3000® ##########
 - 0085 ## EN-WR # FileRevDateTime : 20260930-0900
 - 0086 ## EN-WR # FileRevPackageDateWeek : 202640
 - 0087 ## EN-WR # FileSystemName : 202640-PLDF3000®-FACTORY-ALL-ALL-ALL-MEDIA-LPOSDMSSPF3000S®-202627-010-000-ENG-WRD-EU.PTZGPP62P15D548M
-- 0088 ## EN-WR # FileAppName : PCGR-PETAZZONI.F16®-EN-WR_20260930-0900_AMD64
-- 0089 ## EN-WR # FileRevName : 202640-PLDF3000®-FACTORY-ALL-ALL-ALL-MEDIA-LPOSDMSSPF3000S®-202627-010-000-ENG-WRD-EU.PTZGPP62P15D548M-CMM-PCGR-PETAZZONI.F16®-EN-WR_20260930-0900_AMD64-0000-9-PCGR-PETAZZONI.F16®-EN-WR-README©.md
+- 0088 ## EN-WR # FileAppName : LPOS-PETAZZONI.F3000®-EN-WR_20260930-0900_AMD64
+- 0089 ## EN-WR # FileRevName : 202640-PLDF3000®-FACTORY-ALL-ALL-ALL-MEDIA-LPOSDMSSPF3000S®-202627-010-000-ENG-WRD-EU.PTZGPP62P15D548M-CMM-LPOS-PETAZZONI.F3000®-EN-WR_20260930-0900_AMD64-0000-9-LPOS-PETAZZONI.F3000®-EN-WR-README©.md
 - 0090 ## EN-WR # FileRevCode : 202640-PLDF3000®-7000-000000710000-202627-010-000-ENG-WRD-EU.PTZGPP62P15D548M-CMM-000000710000®-PETAZZONI.F3000®.PRODUCTS©-EN-WR_20260930-0900_AMD64-0000-9-000000710000®-PETAZZONI.F3000®.PRODUCTS©-EN-WR-README©.md
 - 0091 ## EN-WR # FileDir : /etc/apache2/sites-available
 - 0092 ## EN-WR # FileCodify : Soft Tab 4 , UTF-8 , conf
@@ -95,7 +95,6 @@
 - 0095 ## EN-WR # FileTypeExst : TEXT , -README©.md
 - 0096 ## EN-WR # FileArch :  ALL
 - 0097 ## EN-WR # FileCapacity : 
-- 0098 ## EN-WR # FileFileName : PCGR-PETAZZONI.F16®-EN-WR-README©.md
-- 0099 ## EN-WR # FileShortDescription :  PRODUCTS COPYRIGHT © Model OS PLDF3000® PCGR-PETAZZONI.F16®-EN-WR-README©.md
+- 0098 ## EN-WR # FileFileName : LPOS-PETAZZONI.F3000®-EN-WR-README©.md
+- 0099 ## EN-WR # FileShortDescription :  PRODUCTS COPYRIGHT © Model OS PLDF3000® LPOS-PETAZZONI.F3000®-EN-WR-README©.md
 - 0100 ## EN-WR # FileLongDescription : any loss or damage arising from the information contained in this application provided by third parties. .com BASE disclaims all Applications written by third parties Persons for use Cyber Crime Spying Sabotage of other Persons . .com BASE using a careful Policy of Quality Control Tests  Compatibility of Applications with Copiright Licenses © / Open, Open Public .
-### # 0018 ##EN-WR #
