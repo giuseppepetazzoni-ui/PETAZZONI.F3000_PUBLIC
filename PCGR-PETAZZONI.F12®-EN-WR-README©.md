@@ -1,0 +1,101 @@
+- 0001 ## EN-WR # File : PCGR-PETAZZONI.F16®-EN-WR-README©.md
+- 0002 ## EN-WR # Applicant Inventor Operating System Software : IT.PTZGPP62P15D548M GIUSEPPE PETAZZONI via Messidoro 6i , via Ruggero Tambroni 38a 44124 Ferrara Italia European Union
+- 0003 ## EN-WR # Applicant Inventor Applications Software: Institute for Cancer Research, Oslo University Hospital Copyright (c) 2024 Sigve Nakken and Copyright (c) 2026 IT.PTZGPP62P15D548M GIUSEPPE PETAZZONI Street Messidoro 6i , Street Ruggero Tambroni 38a 44124 Ferrara Italy European Union
+- 0004 ## EN-WR # Applicant Inventor Records : 1st Record Since 2012 GIUSEPPE PETAZZONI has made more RECORDS, has written Developed 3 000 000 Files to be used in complex applications applied to FOOD BANK BEAUTY CHEMISTRY CONSTRUCTIONS ENERGY INSTITUTIONS MACHINES METALS MEDIA HEALTH SERVICES with variable capacity for each file from 300 000 up to 3 000 000 lines of Programming Language and / or SQL Software Code for each file to be used in SUPERSERVER for small medium large DATACENTER with minimum 3 000 nodes up to 30 000 nodes for single datacenter, the second behind GIUSEPPE PETAZZONI has written a file of 3 000 lines applied to the documentation, The remaining 60 000 programmers located in 250 countries of the world who have collaborated to write software systems have written an average of 30 to 3 000 files for application with capacity from 30 to 3 000 lines of Programming Languages and / or Software Code for single file, a Lawyer a Judge a Notary a Politician in the media write legal and / or notarial acts of 300 lines per single file. 2nd Record In the year 2019-2020 GIUSEPPE PETAZZONI wrote and developed six Applications KING QUEEN ROOK BISHOP HORSE PAWN to Organize Time for People in 24 Hour Paper and / or Digital Format, in 60 Languages   ​​ with 100% Translations for People and / or Multinational Companies and / or National Institutions that have employees in a Nation and / or all over the World to be organized with the unit of measurement of time, with this unit of measurement Time the competition, the benefits, the paychecks, the competing companies in the Media world have the 8/16 hour format 1 Language with 20% Translations.
+- 0005 ## EN-WR # Contacts: contacts giuseppe.petazzoni@gmail.com giuseppe.petazzoni@legalmail.it Telephone +39 3289184229
+- 0006 ## EN-WR # Copyright: Copyright © 1990 - 2026 by IT.PTZGPP62P15D548M GIUSEPPE PETAZZONI street via Messidoro 6i , via Ruggero Tambroni 38a 44124 Ferrara Italia European Union
+- 0007 ## EN-WR # Development Group: 30 000 People develop software applications in 60 programming languages for © in 60 languages with average development capacity for each file from 30 to 3 000 lines of software code in the following groups of programming languages: 3d, assembler, configurations, data, hardware, markers, scientific, scripts, sources
+- 0008 ## EN-WR # DevelPerson: Person GIUSEPPE PETAZZONI has a capacity of writing for single file of lines of software code from  300 000  to  3 000 000 of lines of code for each file in the year 2012 in the SQL language for Datacenter from 2012 to 2026 Giuseppe PETAZZONI has developed 60 Models of the PLD© Software Operating System to increase production specifically increase the amount of software code lines written by programmers in one hour up to 1000% increase using PLD© in the development of software applications for People Companies Institutions from year 2013 to year 2026 
+- 0009 ## EN-WR # DevelContrib: 3 000 People develop software applications in 60 programming languages for PLD© in 60 languages with average development capacity for each file from 30 to 3 000 lines of software code in the following groups of programming languages: 3d, assembler, configurations, data database, hardware , markers, scientific, scripts, sources 
+- 0010 ## EN-WR # Operating System Data License : Copyright © All rights reserved. No part of this PETAZZONI LINUX DEBIAN F3000® PLDF3000® Operating System and / or Application and / or part of this File may be copied, republished, republished on the web, distributed or transmitted in any form or by any means. , including recording photocopies or other electronic or mechanical methods without the prior written permission of the Applicant and the Author, except in the case of short quotes incorporated into critical reviews and certain other non-commercial uses permitted by copyright law. For authorization requests write to the Applicant and the Author. The Operating System Data PETAZZONI LINUX DEBIAN F3000® PLDF3000® is 32 years of age was born in 1990 and consists of 3 000 to 30 000 Applications at 2025-12-31 with variable capacity from 3000 to 30000 nodes for DATACENTER. The Operating System Data PETAZZONI LINUX DEBIAN F3000® PLDF3000® is composed of three types of Applications with three types of Licenses 1st Copiright © 2nd Copiright © / Open 3rd Open Public. The Operating System Data PETAZZONI LINUX DEBIAN F3000® PLDF3000® is sold with a Copyright License © with annual support and documentation, for the following years there will be paid updates of the Version with support and documentation included. 1 year warranty for 1 version license of annual use, multi-year warranty for the purchase of multiple versions of licenses of use for multiple years.
+- 0011 ## EN-WR # Publisherweb :  PETAZZONI LINUX DEBIAN F3000® PLDF3000®
+- 0012 ## EN-WR # Develop : PETAZZONI LINUX DEBIAN F3000® PLDF3000® 60 Models Developed in 60 programming languages 60 development classes from 1990 - 2026
+- 0013 ## EN-WR # Support : PETAZZONI LINUX DEBIAN F3000® PLDF3000® 60 Models Supported in 60 programming languages 60 support classes from the year 2013 - 2026
+- 0014 ## EN-WR # Training : PETAZZONI LINUX DEBIAN F3000® PLDF3000® 60 Models for programmer training in 60 software programming languages 60 training classes from 2013 - 2026
+- 0015 ## EN-WR # Application : All Numbers Letters Words Names Codes Images Videos Written and / or produced and / or recorded documents made in the different versions in the time from 1 year to 32 years depend on the Quality Capacity Performance of the People in this Application and / or Files that are known as codes and / or names and / or images and / or videos and / or documents and / or trademarks and / or trademarks of Operating Data Systems are 1st Quality owned by the Author and / or of the Applicant and are sold with a Copyright License © all parts of the application and / or the entire Application that have passed all the Functional Test Operations and / or all the Quality Control Operations are registered and patented. new Applications to be written are registered with Copyright License © during the contract period after the signing of the Contract Contract and will be Compatible with  PETAZZONI LINUX DEBIAN F3000® PLDF3000®. The use of the files and the content of the files such as terms and / or codes and / or names and / or trademarks and / or Images and / or Videos and / or Documents in this Application is in fact the National International Intellectual Property of the Author and of the Applicant who as of today reserve all the intellectual property rights on the Operating System of Data PETAZZONI LINUX DEBIAN F3000® PLDF3000® towards other Persons and / or Groups of Persons, reserve all rights as of today of Sale of the Operating Data System PETAZZONI LINUX DEBIAN F3000® PLDF3000® towards Customers and Groups of Customers, as of today reserve all the Purchase Rights on the Operating Data System PETAZZONI LINUX DEBIAN F3000® PLDF3000® towards Suppliers and Groups of Suppliers of complementary parties as third parties for Economic Patrimonial purposes
+- 0016 ## EN-WR # Application Functionality : This Application has the functionality to Build Develop Test Check the Quality of the Operating System Software for PETAZZONI LINUX DEBIAN F3000® PLDF3000® from 1 language up to 60 Languages
+- 0017 ## EN-WR # Warnings and Disclaimers: Every effort has been made to make this Application and / or File as complete and accurate as possible, but no warranty or fitness is implied. The information provided is as is. The Author and Applicant will have no liability to any Person or Entity in connection with any loss or damage arising from the information contained in this application provided by third parties. .com BASE disclaims all Applications written by third parties Persons for use Cyber Crime Spying Sabotage of other Persons . .com BASE using a careful Policy of Quality Control Tests  Compatibility of Applications with Copiright Licenses © / Open, Open Public .
+- 0018 ## EN-WR #
+- 0019 ## EN-WR # START FACTORY CONTACTS SUPPORTS PETAZZONI LINUX DEBIAN F3000® PLDF3000® ################# 
+- 0020 ## EN-WR # PLDF3000® Operatin System OS Base: PETAZZONI LINUX DEBIAN PLD®   LDP®  
+- 0021 ## EN-WR # PLDF3000® Operatin System Based On: EUROPEAN UNION
+- 0022 ## EN-WR # PLDF3000® Operatin System Origin: GLOBAL
+- 0023 ## EN-WR # PLDF3000® Operatin System Architecture: AMD64
+- 0024 ## EN-WR # PLDF3000® Operatin System Models Locale : I60N-L60N LOCALE
+- 0025 ## EN-WR # PLDF3000® Operatin System Capacity Operations Software : [1 SUPERSERVER 2 NODE, 2 LICENSES LPOS PETAZZONI F3000® DATACENTER VARIABLE PRICES NUMBER CORES + PROCESS, 2 LICENSE CLIENT VARIABLE PRICES NUMBER USER, 6-24 CORES, 12-48 THREAD] - [30 SUPERSERVER 60 NODE LICENSE OS DATACENTER  60 LICENSES CLIENTS, 360-1 440 CORES, 720-2 880 THREAD]  
+- 0026 ## EN-WR # PLDF3000® OS Software Class Models : [ OS PLDF3000®-7000-000000710000-202627-010-000-ENG-WRD DATACENTER ]                 
+- 0027 ## EN-WR # PLDF3000® Operatin System Services Models : [ CLUSTER-MEDIA-MIPH080SIP-202627-010-000-ENG-WRD© ]
+- 0028 ## EN-WR # PLDF3000® Operatin System Languages Area Operations : 1 LANGUAGES 1 NATIONS
+- 0029 ## EN-WR # PLDF3000® Operatin System HomePage : http://www.pldf3000.com
+- 0030 ## EN-WR # PLDF3000® Operatin System Mailing Lists : https://en-wr.lists.pldf3000.com
+- 0031 ## EN-WR # PLDF3000® Operatin System User Forums : https://en-wr.forums.pldf3000.com
+- 0032 ## EN-WR # PLDF3000® Operatin System Documentation: https://en-wr.doc.pldf3000.com
+- 0033 ## EN-WR # PLDF3000® Operatin System Support : https://en-wr.support.pldf3000.com
+- 0034 ## EN-WR # PLDF3000® Operatin System Training : https://en-wr.training.pldf3000.com
+- 0035 ## EN-WR # PLDF3000® Operatin System Screenshots : https://en-wr.images.pldf3000.com
+- 0036 ## EN-WR # PLDF3000® Operatin System Download Mirrors : https://en-wr.download.pldf3000.com
+- 0037 ## EN-WR # PLDF3000® Operatin System OS Start : https://en-wr.pay.pldf3000.com
+- 0038 ## EN-WR # PLDF3000® Operatin System BugTracker : https://en-wr.bugs.pldf3000.com
+- 0039 ## EN-WR # PLDF3000® Operatin System Related Websites : https://en-wr.pldf3000.com
+- 0040 ## EN-WR # STOP FACTORY CONTACTS SUPPORTS PETAZZONI LINUX DEBIAN F3000® PLDF3000® ##########
+- 0041 ## EN-WR #
+- 0042 ## EN-WR # START FACTORY OPERATIONS PETAZZONI LINUX DEBIAN F3000® PLDF3000® ##########
+- 0043 ## EN-WR # OperatinSystemHomepage: pldf3000.COM
+- 0044 ## EN-WR # OperatinSystemTechName :  PETAZZONI LINUX DEBIAN F3000® PLDF3000®
+- 0045 ## EN-WR # OperatinSystemBase : PETAZZONI LINUX DEBIAN® PLD®
+- 0046 ## EN-WR # OperatinSystemOperations : OS PLDF3000®  DATACENTER
+- 0047 ## EN-WR # OperatinSystemModelShortName : OS PLDF3000® DTC
+- 0048 ## EN-WR # OperatinSystemRevDateWeek : 202627
+- 0049 ## EN-WR # OperatinSystemDepartment :  FACTORY
+- 0050 ## EN-WR # OperatinSystemArch :  AMD64
+- 0051 ## EN-WR # OperatinSystemPartitionType : ext4
+- 0052 ## EN-WR # OperatinSystemPartitionCapacity :  32GB
+- 0053 ## EN-WR # OperatinSystemPartitionMaxCapacity : 1EB
+- 0054 ## EN-WR # OperatinSystemHardware : ALL
+- 0055 ## EN-WR # OperatinSystemSoftware : ALL
+- 0056 ## EN-WR # OperatinSystemModelName : PLDF3000®-FACTORY-ALL-ALL-ALL-MEDIA-LPOSDMSSPF3000S®
+- 0057 ## EN-WR # OperatinSystemModelCode : PLDF3000®-7000-000000710000
+- 0058 ## EN-WR # OperatinSystemNameOperations : PLDF3000®-FACTORY-ALL-ALL-ALL-MEDIA-LPOSDMSSPF3000S®-202627-010-000-I60N-L60N-EU.PTZGPP62P15D548M
+- 0059 ## EN-WR # OperatinSystemLocaleNameOperations : PLDF3000®-FACTORY-ALL-ALL-ALL-MEDIA-LPOSDMSSPF3000S®-202627-010-000-ENG-WRD-EU.PTZGPP62P15D548M 
+- 0060 ## EN-WR # OperatinSystemCodeOperations : PLDF3000®-7000-000000710000-202627-010-000-I60N-L60N-EU.PTZGPP62P15D548M
+- 0061 ## EN-WR # OperatinSystemLocaleCodeOperations : PLDF3000®-7000-000000710000-202627-010-000-ENG-WRD-EU.PTZGPP62P15D548M
+- 0062 ## EN-WR # STOP FACTORY OPERATIONS PETAZZONI LINUX DEBIAN F3000® PLDF3000® ##########
+- 0063 ## EN-WR #
+- 0064 ## EN-WR # START FACTORY TASK PETAZZONI LINUX DEBIAN F3000® PLDF3000® ########## 
+- 0065 ## EN-WR # TaskLanguage : EN
+- 0066 ## EN-WR # TaskArea : WR
+- 0067 ## EN-WR # TaskOSBase : TASK-EN-WR
+- 0068 ## EN-WR # TaskOSInterface : TASK-KDE-EN-WR
+- 0069 ## EN-WR # TaskOSOperations : PLDF3000®-LPOSDMSSPF3000S®-I60N-L60N
+- 0070 ## EN-WR # TaskOSModel : TASK-LPOSDMSSPF3000S®-EN-WR
+- 0071 ## EN-WR # TaskName : TASK-LPOSDMSSPF3000S®-EN-WR-KDE
+- 0072 ## EN-WR # TaskCode : TASK-000000710000-040-050-004
+- 0073 ## EN-WR # STOP FACTORY TASK PETAZZONI LINUX DEBIAN F3000® PLDF3000® ############
+- 0074 ## EN-WR #
+- 0075 ## EN-WR # START FACTORY PAKAGE PETAZZONI LINUX DEBIAN F3000® PLDF3000® ########## 
+- 0076 ## EN-WR # PackageCategory : GRAPHICS
+- 0077 ## EN-WR # PackageName : PCGR-PETAZZONI.F16®-EN-WR
+- 0078 ## EN-WR # PackageRevDateTime : 20260930-0900
+- 0079 ## EN-WR # PackageArch :  AMD64
+- 0080 ## EN-WR # PackageExt : .deb
+- 0081 ## EN-WR # PackageCodeNew :  PCGR-PETAZZONI.F16®-EN-WR_20260930-0900_AMD64.deb
+- 0082 ## EN-WR # STOP FACTORY PAKAGE PETAZZONI LINUX DEBIAN F3000® PLDF3000® ########## 
+- 0083 ## EN-WR #
+- 0084 ## EN-WR # START FACTORY FILE PETAZZONI LINUX DEBIAN F3000® PLDF3000® ##########
+- 0085 ## EN-WR # FileRevDateTime : 20260930-0900
+- 0086 ## EN-WR # FileRevPackageDateWeek : 202640
+- 0087 ## EN-WR # FileSystemName : 202640-PLDF3000®-FACTORY-ALL-ALL-ALL-MEDIA-LPOSDMSSPF3000S®-202627-010-000-ENG-WRD-EU.PTZGPP62P15D548M
+- 0088 ## EN-WR # FileAppName : PCGR-PETAZZONI.F16®-EN-WR_20260930-0900_AMD64
+- 0089 ## EN-WR # FileRevName : 202640-PLDF3000®-FACTORY-ALL-ALL-ALL-MEDIA-LPOSDMSSPF3000S®-202627-010-000-ENG-WRD-EU.PTZGPP62P15D548M-CMM-PCGR-PETAZZONI.F16®-EN-WR_20260930-0900_AMD64-0000-9-PCGR-PETAZZONI.F16®-EN-WR-README©.md
+- 0090 ## EN-WR # FileRevCode : 202640-PLDF3000®-7000-000000710000-202627-010-000-ENG-WRD-EU.PTZGPP62P15D548M-CMM-000000710000®-PETAZZONI.F3000®.PRODUCTS©-EN-WR_20260930-0900_AMD64-0000-9-000000710000®-PETAZZONI.F3000®.PRODUCTS©-EN-WR-README©.md
+- 0091 ## EN-WR # FileDir : /etc/apache2/sites-available
+- 0092 ## EN-WR # FileCodify : Soft Tab 4 , UTF-8 , conf
+- 0093 ## EN-WR # FileDepend : VIM , NANO , KATE , EN-WR FILECODIFY , IDENTATION , ENDOFFILE
+- 0094 ## EN-WR # FileCategory : PRODUCTS COPYRIGHT ©
+- 0095 ## EN-WR # FileTypeExst : TEXT , -README©.md
+- 0096 ## EN-WR # FileArch :  ALL
+- 0097 ## EN-WR # FileCapacity : 
+- 0098 ## EN-WR # FileFileName : PCGR-PETAZZONI.F16®-EN-WR-README©.md
+- 0099 ## EN-WR # FileShortDescription :  PRODUCTS COPYRIGHT © Model OS PLDF3000® PCGR-PETAZZONI.F16®-EN-WR-README©.md
+- 0100 ## EN-WR # FileLongDescription : any loss or damage arising from the information contained in this application provided by third parties. .com BASE disclaims all Applications written by third parties Persons for use Cyber Crime Spying Sabotage of other Persons . .com BASE using a careful Policy of Quality Control Tests  Compatibility of Applications with Copiright Licenses © / Open, Open Public .
+### # 0018 ##EN-WR #
