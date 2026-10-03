@@ -97,4 +97,4 @@
 - 0097 ## EN-WR # FileCapacity : 
 - 0098 ## EN-WR # FileFileName : LPOS-PETAZZONI.F3000®-EN-WR-README©.md
 - 0099 ## EN-WR # FileShortDescription :  PRODUCTS COPYRIGHT © Model OS PLDF3000® LPOS-PETAZZONI.F3000®-EN-WR-README©.md
-- 0100 ## EN-WR # FileLongDescription : any loss or damage arising from the information contained in this application provided by third parties. .com BASE disclaims all Applications written by third parties Persons for use Cyber Crime Spying Sabotage of other Persons . .com BASE using a careful Policy of Quality Control Tests  Compatibility of Applications with Copiright Licenses © / Open, Open Public .
+- 0100 ## EN-WR # FileLongDescription : 
